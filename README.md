@@ -1,0 +1,1 @@
+This is my submission for the intro to python final project. To run this program open command prompt and navigate to the folder containing the python script. Enter the command "python clitodo.py" to run the program.
